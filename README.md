@@ -39,7 +39,7 @@ Voici une fonction qui met en majuscule le nom d'un étudiant, puis l'imprime.
 ```
 function printStudentName(name) {
   const formattedName = name.toUpperCase();
-  console.log(`L'étudiant s'appelle ${formattedName});
+  console.log(`L'étudiant s'appelle ${formattedName}`);
 }
 ```
 
